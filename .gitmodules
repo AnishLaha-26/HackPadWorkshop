@@ -1,0 +1,6 @@
+[submodule "MyHackPad/MX_Alps_Hybrid.pretty"]
+	path = MyHackPad/MX_Alps_Hybrid.pretty
+	url = https://github.com/ai03-2725/MX_Alps_Hybrid.pretty
+[submodule "MyHackPad/random-keyboard-parts.pretty"]
+	path = MyHackPad/random-keyboard-parts.pretty
+	url = https://github.com/ai03-2725/random-keyboard-parts.pretty
